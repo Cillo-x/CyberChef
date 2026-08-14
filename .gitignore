@@ -2,6 +2,9 @@ node_modules
 npm-debug.log
 travis.log
 build
+deploy
+.wrangler
+.devcontainer/devcontainer-lock.json
 .vscode
 .idea
 .*.swp
