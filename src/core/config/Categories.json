@@ -4,6 +4,12 @@
         "ops": []
     },
     {
+        "name": "Custom Extension",
+        "ops": [
+            "Extract Base64 Alphabet"
+        ]
+    },
+    {
         "name": "Data format",
         "ops": [
             "To Hexdump",
