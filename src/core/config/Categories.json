@@ -198,6 +198,7 @@
         "name": "Public Key",
         "ops": [
             "Parse X.509 certificate",
+            "Parse X.509 certificate bundles",
             "Parse X.509 CRL",
             "Parse ASN.1 hex string",
             "PEM to Hex",
@@ -213,6 +214,7 @@
             "PGP Verify",
             "PGP Encrypt and Sign",
             "PGP Decrypt and Verify",
+            "Parse PGP Key",
             "Generate RSA Key Pair",
             "RSA Sign",
             "RSA Verify",
